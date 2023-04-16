@@ -1,5 +1,0 @@
-Dla przybliżenia początkowego 6, miejsce zerowe wynosi 6.28319.
-Dla przybliżenia początkowego 4.5, miejsce zerowe nie zostało znaleznione. Komunikat ostrzega nas, że jest to spowodowane tym, że tangens w punktach nieciągłości zmienia znak.
-W takim przypadku taki punkt może być zostać określony jako miejsce zerowe (jest to zły wynik).
-
- 
