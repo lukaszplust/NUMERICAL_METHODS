@@ -10,3 +10,5 @@ LAB 2 - wykonane na 95%
 -> Brak wyświetlenia jednego wykresu. Chuj wie o co tam chodzi ;*
 
 LAB 3 - wykonane na 100%.
+
+LAB 4 - wykonane na 100%.
