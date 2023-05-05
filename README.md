@@ -7,7 +7,6 @@ PROJEKT 1 - otrzymałem 100%
 PROJEKT 2 - wykonany na 50%
 
 LAB 2 - wykonane na 95%
--> Brak wyświetlenia jednego wykresu. Chuj wie o co tam chodzi ;*
 
 LAB 3 - wykonane na 100%.
 
