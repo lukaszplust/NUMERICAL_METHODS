@@ -11,3 +11,5 @@ LAB 2 - wykonane na 95%
 LAB 3 - wykonane na 100%.
 
 LAB 4 - wykonane na 100%.
+
+LAB 5 - wykonane na 100%.
