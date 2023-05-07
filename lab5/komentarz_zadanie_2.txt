@@ -1,0 +1,4 @@
+Wykres interpolacji trygonometrycznej zbiega się. Największa różnica wynosi około 3.5. Wykres nie posiada pików.
+
+Wykres interpolacji wielomianowej posiada wiele pików. Największe z nich występują dla K = 17, K = 20 oraz K = 33
+
