@@ -1,4 +1,0 @@
-Wzrost liczby punktów pomiarowych zwiększa dokładoność wyznaczania wartości promieniowania. 
-Przy interpolowaniu wielomianowym zachodzi efekt Rungego, który występuję, gdy wykorzystuje się wielomiany wysokiego stopnia do
-interpolacji węzłów w równo-odległych punktach. Jest to widoczne dokładniej na krańcu przedziału dla K=15 oraz K=30.
-Przy iterpolowaniu trygonometrycznym efekt Rungego nie występuje.
