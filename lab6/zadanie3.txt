@@ -1,1 +1,0 @@
-Lepiej jest skorzystać z aproksymacji, gdy proces obarczony jest błędem ok. 5%. Funckja interpolująca dla takiego przypadku mogłaby zostać wyznaczona niedokładnie.
