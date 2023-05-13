@@ -14,4 +14,4 @@ LAB 4 - wykonane na 100%.
 
 LAB 5 - wykonane na 100%.
 
-LAB 6 - dokonczyc zadanie6c i zadanie6c.txt
+LAB 6 - dokonczyc zadanie6c i zadanie6c.txt.
