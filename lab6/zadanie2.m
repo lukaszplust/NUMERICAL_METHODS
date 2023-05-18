@@ -113,7 +113,7 @@ hold on;
 plot3(xa,ya,za,'g','lineWidth',4);
 axis equal
 grid on
-title('Aproksymacja trygonometryczna polozenia drona');
+title('Aproksymacja trygonometryczna polozenia drona dla N=60');
 xlabel("x [m]");
 ylabel("y [m]");
 zlabel("z [m]");
@@ -148,8 +148,6 @@ ylabel("Wartosc bledu");
 saveas(gcf,"zadanie6b.png");
 
 %ZADANIE 6 C
-
-
 clc
 clear all
 close all
@@ -170,39 +168,11 @@ hold on;
 plot3(xa,ya,za,'g','lineWidth',4);
 axis equal
 grid on
-title('Aproksymacja trygonometryczna polozenia drona');
+title('Aproksymacja trygonometryczna polozenia drona dla N=150');
 xlabel("x [m]");
 ylabel("y [m]");
 zlabel("z [m]");
-saveas(gcf, "zadanie6a.png");
-
-
-%wykres błędu
-err = [];
-M = size(n,2);%liczba pomiarow drona
-
-for N = 1:71
-
-    counter = 0;
-    xa = aproksymacjaTrygonometryczna(n, x, N);  % aproksymacja wspolrzednej x
-    ya = aproksymacjaTrygonometryczna(n, y, N);  % aproksymacja wspolrzednej y
-    za = aproksymacjaTrygonometryczna(n, z, N);  % aproksymacja wspolrzednej z
-    
-    err_x = sqrt(sum((x-xa).^2))/M;
-    err_y = sqrt(sum((y-ya).^2))/M;
-    err_z = sqrt(sum((z-za).^2))/M;
-    counter = err_x + err_y + err_z;
-
-    err(end+1) = counter;
-end    
-
-figure("Name", "Wykres bledu dla trygonometrycznej");
-semilogy(err)
-grid on
-title("Blad aproksymacji trygonometrycznej");
-xlabel("N");
-ylabel("Wartosc bledu");
-saveas(gcf,"zadanie6c.png");
+saveas(gcf, "zadanie6c.png");
 
 
 

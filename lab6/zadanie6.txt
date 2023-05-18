@@ -1,0 +1,5 @@
+a) Dla rzędu N = 150 aproksymacja przebiegła lepiej niż dla rzędu N =60. Widać, że przechodzi przez punkty, w których dla rzędu N=60 nie przechodziła.
+
+b) Lepiej będzie zastosować aproksymację mniejszego rzędu. Dla danych obarczonych błędem 5% funkcja interpolująca może zostać wyznaczona niedokładnie.
+
+c) Dla aproksymacji trygonometrycznej efekt Rungego nie występuje.
