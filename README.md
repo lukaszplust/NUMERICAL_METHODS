@@ -15,3 +15,5 @@ LAB 4 - wykonane na 100%.
 LAB 5 - wykonane na 100%.
 
 LAB 6 - wykonane na 100%.
+
+LAB 7 - wykonane na 100%.
