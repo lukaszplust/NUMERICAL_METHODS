@@ -1,5 +1,5 @@
 # NUMERICAL_METHODS
-ORGIANLNE REPO
+ORGINALNE REPO
 
 PROJEKT 1 - otrzymałem 100%
 -> Doktor Sypek powiedział, że gdybym porównał jeszcze MACD i SIGNAL bez RSI, przed porównaniem wszystkiego razem byłoby 110%. RSI zrobione dodatkowo !!!
