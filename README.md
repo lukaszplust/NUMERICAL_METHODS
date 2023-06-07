@@ -6,6 +6,8 @@ PROJEKT 1 - otrzymałem 100%
 
 PROJEKT 2 - wykonany na 50%
 
+PROJEKT 3 - otrzymałem 100%
+
 LAB 2 - wykonane na 95%
 
 LAB 3 - wykonane na 100%.
